@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/nicolas/Documents/B3-Ingesup/devMobile/reminder/platforms/android/CordovaLib/assets"/><source path="/Users/nicolas/Documents/B3-Ingesup/devMobile/reminder/platforms/android/CordovaLib/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/nicolas/Documents/B3-Ingesup/devMobile/reminder/platforms/android/CordovaLib/src/release/assets"/></dataSet></merger>
